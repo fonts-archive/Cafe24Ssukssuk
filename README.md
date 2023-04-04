@@ -15,7 +15,7 @@ font-family: 'Cafe24 Ssukssuk';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ssukssuk/Cafe24Ssukssuk.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Ssukssuk/Cafe24Ssukssuk.css" type="text/css"/>
 ```
 
 &nbsp;
